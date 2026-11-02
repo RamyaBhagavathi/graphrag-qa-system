@@ -1,0 +1,842 @@
+[
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Chris Olah",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ben Mann",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam McCandlish",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Tom Brown",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is President of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ami Vora",
+    "relationship": "is Chief Product Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Mariano-Florentino Cu\u00e9llar",
+    "relationship": "is Chief Global Affairs Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "is Chief Science Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "is Head of Policy at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "leads",
+    "entity2": "Anthropic Institute"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "launched",
+    "entity2": "Anthropic Institute"
+  },
+  {
+    "entity1": "Mike Krieger",
+    "relationship": "was Chief Product Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "works at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "was hired by",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "works as a researcher at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "works as a researcher at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amanda Askell",
+    "relationship": "works as a researcher at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Nicholas Carlini",
+    "relationship": "works as a researcher at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Levent Alp\u00f6ge",
+    "relationship": "works as a researcher at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was Vice President of Research at",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "was formerly employed by",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "was formerly employed by",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "was formerly employed by",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "was formerly employed by",
+    "entity2": "DeepMind"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "develops",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "develops",
+    "entity2": "Claude Code"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "develops",
+    "entity2": "Claude Cowork"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "develops",
+    "entity2": "Claude Mythos"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Bun"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Stainless"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed contract with",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "partnered with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "uses cloud services of",
+    "entity2": "Amazon Web Services"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Snowflake Inc."
+  },
+  {
+    "entity1": "FTX",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam Bankman-Fried",
+    "relationship": "led",
+    "entity2": "FTX"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed cloud computing deal with",
+    "entity2": "Akamai Technologies"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed lease agreement with",
+    "entity2": "TeraWulf Inc."
+  },
+  {
+    "entity1": "AMD",
+    "relationship": "partnered with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "AMD",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed cloud-computing agreement with",
+    "entity2": "Nscale"
+  },
+  {
+    "entity1": "Lightspeed Venture Partners",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Iconiq Capital",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Fidelity Management & Research",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Qatar Investment Authority",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Coatue",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "GIC",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Altimeter Capital",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dragoneer Investment Group",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sequoia Capital",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "co-created",
+    "entity2": "Ode"
+  },
+  {
+    "entity1": "Blackstone",
+    "relationship": "co-created",
+    "entity2": "Ode"
+  },
+  {
+    "entity1": "Hellman & Friedman",
+    "relationship": "co-created",
+    "entity2": "Ode"
+  },
+  {
+    "entity1": "Goldman Sachs",
+    "relationship": "co-created",
+    "entity2": "Ode"
+  },
+  {
+    "entity1": "Mother",
+    "relationship": "created advertisements for",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "donated to",
+    "entity2": "Public First Action"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Ministry of Education and Children"
+  },
+  {
+    "entity1": "Rick Levin",
+    "relationship": "chaired Higher Education Advisory Board of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused of knowledge distillation",
+    "entity2": "DeepSeek"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused of knowledge distillation",
+    "entity2": "Moonshot AI"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused of knowledge distillation",
+    "entity2": "MiniMax Group"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused of knowledge distillation",
+    "entity2": "Alibaba Cloud"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused of knowledge distillation",
+    "entity2": "Z.ai"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "served as Defense Secretary of",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is brother of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was vice president of research at",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Riccardo Amodei",
+    "relationship": "father of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Riccardo Amodei",
+    "relationship": "father of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Elena Engel",
+    "relationship": "mother of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Elena Engel",
+    "relationship": "mother of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "graduated from",
+    "entity2": "Lowell High School"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "attended",
+    "entity2": "Caltech"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "studied under",
+    "entity2": "Tom Tombrello"
+  },
+  {
+    "entity1": "Tom Tombrello",
+    "relationship": "faculty member at",
+    "entity2": "Caltech"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "graduated from",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received fellowship from",
+    "entity2": "Hertz Foundation"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "earned doctorate from",
+    "entity2": "Princeton University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was postdoctoral scholar at",
+    "entity2": "Stanford University School of Medicine"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Baidu"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "offered CEO position to replace",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "approached about merger",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "leads",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "labeled as supply-chain risk",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "married",
+    "entity2": "Camilla Clark"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Trevor Blackwell",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Vicki Cheung",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Durk Kingma",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Pamela Vagata",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Wojciech Zaremba",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "is chairman of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "is president and CEO of Applications of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sarah Friar",
+    "relationship": "is CFO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "ChatGPT"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "OpenAI Codex"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "GPT Image"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "Deep Research"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "ChatGPT agent"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "ChatGPT Atlas"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "developed",
+    "entity2": "ChatGPT Health"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "released",
+    "entity2": "OpenAI Gym"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "released",
+    "entity2": "Universe"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "has subsidiary",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "has subsidiary",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "has subsidiary",
+    "entity2": "OpenAI GP LLC"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "has subsidiary",
+    "entity2": "OpenAI Global, LLC"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "has subsidiary",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "OpenAI Foundation",
+    "relationship": "holds an ownership stake in",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "holds an ownership stake in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "holds an ownership stake in",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "provides cloud computing infrastructure to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "integrated models from",
+    "entity2": "Copilot"
+  },
+  {
+    "entity1": "Nvidia",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Nvidia",
+    "relationship": "gifted DGX-1 supercomputer to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "SoftBank",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Coatue",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Altimeter",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Thrive",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Reid Hoffman",
+    "relationship": "pledged capital to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Jessica Livingston",
+    "relationship": "pledged capital to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Peter Thiel",
+    "relationship": "pledged capital to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Amazon Web Services",
+    "relationship": "pledged capital to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Infosys",
+    "relationship": "pledged capital to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partners with",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partners with",
+    "entity2": "Los Alamos National Laboratory"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partners with",
+    "entity2": "Anduril Industries"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered on The Stargate Project with",
+    "entity2": "Oracle"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered on The Stargate Project with",
+    "entity2": "SoftBank"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered on The Stargate Project with",
+    "entity2": "MGX"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Global Illumination"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Multi"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "acquired",
+    "entity2": "Tomoro"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "agreed to acquire",
+    "entity2": "Northslope"
+  },
+  {
+    "entity1": "TPG",
+    "relationship": "invested in",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Advent International",
+    "relationship": "invested in",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Bain Capital",
+    "relationship": "invested in",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Brookfield",
+    "relationship": "invested in",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "SpaceX",
+    "relationship": "acquired",
+    "entity2": "Cursor"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "terminated API access for",
+    "entity2": "Cursor"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "sued",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "sued",
+    "entity2": "Sam Altman"
+  }
+]

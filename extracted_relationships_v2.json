@@ -1,0 +1,942 @@
+[
+  {
+    "entity1": "Anthropic",
+    "relationship": "headquartered in",
+    "entity2": "San Francisco, California"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "founded in year",
+    "entity2": "2021"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Chris Olah",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ben Mann",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam McCandlish",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Tom Brown",
+    "relationship": "co-founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "President of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ami Vora",
+    "relationship": "CPO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Mariano-Florentino Cu\u00e9llar",
+    "relationship": "Chief Global Affairs Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "sibling of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "settled lawsuit for",
+    "entity2": "$1.5 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Bun"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Stainless"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Amazon Web Services"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Snowflake Inc."
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "AMD"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Akamai Technologies"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Nscale"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "worked at",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "worked at",
+    "entity2": "DeepMind"
+  },
+  {
+    "entity1": "Mike Krieger",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amanda Askell",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Nicholas Carlini",
+    "relationship": "worked at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "leads",
+    "entity2": "Anthropic Institute"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation in May 2026",
+    "entity2": "$965 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "born in",
+    "entity2": "1983"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "born in",
+    "entity2": "San Francisco, California"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "sibling of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "born",
+    "entity2": "1987"
+  },
+  {
+    "entity1": "Riccardo Amodei",
+    "relationship": "father of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Elena Engel",
+    "relationship": "mother of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "founded in",
+    "entity2": "2021"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "graduated from",
+    "entity2": "Lowell High School"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "member of",
+    "entity2": "USA Physics Olympiad team"
+  },
+  {
+    "entity1": "USA Physics Olympiad team",
+    "relationship": "year",
+    "entity2": "2000"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "attended",
+    "entity2": "Caltech"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "transferred to",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received degree from",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received PhD from",
+    "entity2": "Princeton University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received fellowship",
+    "entity2": "Hertz Foundation Fellowship"
+  },
+  {
+    "entity1": "Hertz Foundation Fellowship",
+    "relationship": "year",
+    "entity2": "2007"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received award",
+    "entity2": "Hertz Thesis Prize"
+  },
+  {
+    "entity1": "Hertz Thesis Prize",
+    "relationship": "year",
+    "entity2": "2011"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "postdoctoral scholar at",
+    "entity2": "Stanford University School of Medicine"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Baidu"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "joined",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "year",
+    "entity2": "2016"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "married to",
+    "entity2": "Camilla Clark"
+  },
+  {
+    "entity1": "Camilla Clark",
+    "relationship": "married in",
+    "entity2": "2022"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valued at",
+    "entity2": "$965 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "date of valuation",
+    "entity2": "May 2026"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "net worth",
+    "entity2": "$15.5 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "net worth date",
+    "entity2": "June 2026"
+  },
+  {
+    "entity1": "Time magazine",
+    "relationship": "listed as influential",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "influential list year",
+    "entity2": "2025"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "influential list year",
+    "entity2": "2026"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "influential list year",
+    "entity2": "2026"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "conflicted with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Department of Defense",
+    "relationship": "conflict date",
+    "entity2": "February 2026"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "leads",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "headquartered in",
+    "entity2": "San Francisco, California"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded in",
+    "entity2": "2015"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded on",
+    "entity2": "December 8, 2015"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Trevor Blackwell",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Vicki Cheung",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Durk Kingma",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Pamela Vagata",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Wojciech Zaremba",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "chairman of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "president and CEO of Applications of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sarah Friar",
+    "relationship": "CFO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "owns",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "owns stake in",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "OpenAI Foundation",
+    "relationship": "owns stake in",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "US government"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Los Alamos National Laboratory"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Anduril Industries"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Global Illumination"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Multi"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "acquired",
+    "entity2": "Tomoro"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "acquired",
+    "entity2": "Northslope"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "SoftBank"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Nvidia"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Amazon"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Infosys"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Reid Hoffman"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Peter Thiel"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "invested in by",
+    "entity2": "Jessica Livingston"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "rival of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "revenue in 2025",
+    "entity2": "$13.1 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "net income 2025",
+    "entity2": "-$9 billion"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "released in",
+    "entity2": "2022"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "born in",
+    "entity2": "Chicago"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "born on",
+    "entity2": "April 22, 1985"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "attended",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "co-founded",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Loopt",
+    "relationship": "acquired by",
+    "entity2": "Green Dot Corporation"
+  },
+  {
+    "entity1": "Green Dot Corporation",
+    "relationship": "paid",
+    "entity2": "$43.4 million"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "joined",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "president of",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Connie Gibstine",
+    "relationship": "mother of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Jerry Altman",
+    "relationship": "father of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Max Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Jack Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Ann Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "attended",
+    "entity2": "John Burroughs School"
+  },
+  {
+    "entity1": "Patrick Chung",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Xfund",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "New Enterprise Associates",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Sequoia Capital",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Paul Graham",
+    "relationship": "co-founder of",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Stripe, Inc.",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Hydrazine Capital",
+    "relationship": "co-founded by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Hydrazine Capital",
+    "relationship": "co-founded by",
+    "entity2": "Jack Altman"
+  },
+  {
+    "entity1": "Peter Thiel",
+    "relationship": "investor in",
+    "entity2": "Hydrazine Capital"
+  },
+  {
+    "entity1": "University of Michigan",
+    "relationship": "investor in",
+    "entity2": "Hydrazine Capital"
+  },
+  {
+    "entity1": "Humane",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Retro Biosciences",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Boom Technology",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Cruise",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Helion Energy",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "TrialSpark",
+    "relationship": "partnered with",
+    "entity2": "Project Covalence"
+  },
+  {
+    "entity1": "Minicircle",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Minicircle",
+    "relationship": "invested in by",
+    "entity2": "Peter Thiel"
+  },
+  {
+    "entity1": "Pr\u00f3spera",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Praxis",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Balaji Srinivasan",
+    "relationship": "investor in",
+    "entity2": "Pr\u00f3spera"
+  },
+  {
+    "entity1": "Balaji Srinivasan",
+    "relationship": "investor in",
+    "entity2": "Praxis"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "CEO of",
+    "entity2": "Reddit"
+  },
+  {
+    "entity1": "Steve Huffman",
+    "relationship": "CEO of",
+    "entity2": "Reddit"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "co-founded by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "co-founded by",
+    "entity2": "Alex Blania"
+  },
+  {
+    "entity1": "Andreessen Horowitz",
+    "relationship": "investor in",
+    "entity2": "Tools For Humanity"
+  },
+  {
+    "entity1": "Sam Bankman-Fried",
+    "relationship": "investor in",
+    "entity2": "Tools For Humanity"
+  },
+  {
+    "entity1": "Helion Energy",
+    "relationship": "chaired by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Exowatt",
+    "relationship": "invested in by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "AltC Acquisition Corp",
+    "relationship": "co-founded by",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "AltC Acquisition Corp",
+    "relationship": "co-founded by",
+    "entity2": "Michael Klein"
+  },
+  {
+    "entity1": "Oklo Inc.",
+    "relationship": "merged with",
+    "entity2": "AltC Acquisition Corp"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "chairman of",
+    "entity2": "Oklo Inc."
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Jessica Livingston",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Peter Thiel",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Amazon Web Services",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Infosys",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "YC Research",
+    "relationship": "co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "recruited to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "recruited to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Satya Nadella",
+    "relationship": "CEO of",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "Helen Toner",
+    "relationship": "board member of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Adam D'Angelo",
+    "relationship": "board member of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Tasha McCauley",
+    "relationship": "board member of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Lawrence Summers",
+    "relationship": "board member of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "chairman of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Daniel Lurie",
+    "relationship": "mayor-elect of",
+    "entity2": "San Francisco"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "member of transition team for",
+    "entity2": "Daniel Lurie"
+  },
+  {
+    "entity1": "Donald Trump",
+    "relationship": "recipient of donation from",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Mark Warner",
+    "relationship": "recipient of fundraiser from",
+    "entity2": "Samuel Harris Altman"
+  }
+]

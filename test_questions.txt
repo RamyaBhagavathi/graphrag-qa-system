@@ -1,0 +1,20 @@
+SINGLE-FACT (Anthropic article)
+1. In what year was Anthropic founded? -> 2021
+2. Which company did Anthropic acquire in December 2025? -> Bun
+3. How much did Anthropic agree to pay authors to settle the copyright lawsuit? -> $1.5 billion
+4. Who leads the Anthropic Institute? -> Jack Clark
+
+SINGLE-FACT (Dario Amodei article)
+5. In what year was Dario Amodei born? -> 1983
+6. Which university awarded Dario Amodei his PhD? -> Princeton University
+7. Which company did Dario Amodei work at from November 2014 to October 2015? -> Baidu
+8. In what year did Dario Amodei join OpenAI? -> 2016
+
+CONNECTED ACROSS ARTICLES
+9. Which Anthropic co-founder was previously OpenAI's Vice President of Research? -> Dario Amodei
+10. How are Dario and Daniela Amodei related, and what are their roles at Anthropic? -> Siblings; Dario is CEO, Daniela is president
+11. Which Anthropic co-founder previously worked at Baidu? -> Dario Amodei
+12. In November 2023, OpenAI's board approached the head of which company about replacing Sam Altman? -> Anthropic (its CEO, Dario Amodei)
+
+AMBIGUOUS (do not score as right or wrong)
+13. How many people founded Anthropic? -> 7 (body text) or 8 (infobox list)

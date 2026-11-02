@@ -1,0 +1,4 @@
+google-genai
+neo4j
+chromadb
+python-dotenv

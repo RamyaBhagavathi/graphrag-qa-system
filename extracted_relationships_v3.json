@@ -1,0 +1,3397 @@
+[
+  {
+    "entity1": "Anthropic",
+    "relationship": "is a",
+    "entity2": "Public benefit corporation"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "is a",
+    "entity2": "Private company"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "headquartered at",
+    "entity2": "500 Howard Street, San Francisco, California, U.S."
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "founded in",
+    "entity2": "January 2021"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Chris Olah",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ben Mann",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam McCandlish",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Tom Brown",
+    "relationship": "is founder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is president of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Ami Vora",
+    "relationship": "is CPO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Mariano-Florentino Cu\u00e9llar",
+    "relationship": "is Chief Global Affairs Officer of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "produces",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "has 2025 revenue of",
+    "entity2": "US$4.5 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "has employees in 2026",
+    "entity2": "2,500"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is sibling of",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valued in 2026 at",
+    "entity2": "US$965 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Haiku"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Sonnet"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Opus"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Fable"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Claude Mythos"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "developed",
+    "entity2": "Project Panama"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "settled lawsuit in 2025 for",
+    "entity2": "US$1.5 billion"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "works at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "works at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "works at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amanda Askell",
+    "relationship": "works at",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partners with",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised in May 2021",
+    "entity2": "US$124 million"
+  },
+  {
+    "entity1": "Claude",
+    "relationship": "released in",
+    "entity2": "March 2023"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "hired by",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced",
+    "entity2": "Claude 4"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was formerly",
+    "entity2": "OpenAI Vice President of Research"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed cloud computing deal with",
+    "entity2": "Akamai Technologies"
+  },
+  {
+    "entity1": "Akamai Technologies",
+    "relationship": "deal value",
+    "entity2": "8 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "planned IPO debut year",
+    "entity2": "2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "filed IPO papers with",
+    "entity2": "United States Securities and Exchange Commission"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced model",
+    "entity2": "Claude Mythos"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced model",
+    "entity2": "Claude Fable 5"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "suspended access to",
+    "entity2": "Claude Fable 5"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "suspended access to",
+    "entity2": "Claude Mythos 5"
+  },
+  {
+    "entity1": "US government",
+    "relationship": "allowed access to",
+    "entity2": "Claude Mythos 5"
+  },
+  {
+    "entity1": "TeraWulf Inc.",
+    "relationship": "announced lease agreement with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "leased data center at",
+    "entity2": "Justified Data"
+  },
+  {
+    "entity1": "Justified Data",
+    "relationship": "location",
+    "entity2": "Hawesville, Kentucky"
+  },
+  {
+    "entity1": "AMD",
+    "relationship": "partnered with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "AMD",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "AMD",
+    "relationship": "investment amount",
+    "entity2": "5 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "agreed to cloud deal with",
+    "entity2": "Nscale"
+  },
+  {
+    "entity1": "Nscale",
+    "relationship": "deal value",
+    "entity2": "45 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "data center location",
+    "entity2": "West Virginia"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is",
+    "entity2": "CEO of Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is",
+    "entity2": "co-founder of Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is",
+    "entity2": "president of Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is",
+    "entity2": "co-founder of Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "is a",
+    "entity2": "public benefit corporation"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "introduced division",
+    "entity2": "Labs"
+  },
+  {
+    "entity1": "Mike Krieger",
+    "relationship": "joined",
+    "entity2": "Labs"
+  },
+  {
+    "entity1": "Mike Krieger",
+    "relationship": "former role",
+    "entity2": "Chief Product Officer of Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "launched",
+    "entity2": "Anthropic Institute"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "leads",
+    "entity2": "Anthropic Institute"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is sibling of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "left",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "left",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Amanda Askell",
+    "relationship": "is",
+    "entity2": "philosopher at Anthropic"
+  },
+  {
+    "entity1": "Nicholas Carlini",
+    "relationship": "is",
+    "entity2": "researcher at Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "is",
+    "entity2": "co-founder of Anthropic"
+  },
+  {
+    "entity1": "Jack Clark",
+    "relationship": "is",
+    "entity2": "head of policy at Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "is",
+    "entity2": "co-founder of Anthropic"
+  },
+  {
+    "entity1": "Jared Kaplan",
+    "relationship": "is",
+    "entity2": "chief science officer of Anthropic"
+  },
+  {
+    "entity1": "Mike Krieger",
+    "relationship": "is",
+    "entity2": "Chief Product Officer of Anthropic"
+  },
+  {
+    "entity1": "Jan Leike",
+    "relationship": "is",
+    "entity2": "co-lead of Alignment Science team at Anthropic"
+  },
+  {
+    "entity1": "Chris Olah",
+    "relationship": "is",
+    "entity2": "co-founder of Anthropic"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "is",
+    "entity2": "researcher at Anthropic"
+  },
+  {
+    "entity1": "John M. Jumper",
+    "relationship": "is",
+    "entity2": "researcher at Anthropic"
+  },
+  {
+    "entity1": "Levent Alp\u00f6ge",
+    "relationship": "is",
+    "entity2": "researcher at Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "flagship product",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "born in year",
+    "entity2": "1983"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "born in place",
+    "entity2": "San Francisco, California"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is sibling of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "born in year",
+    "entity2": "1987"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is child of",
+    "entity2": "Riccardo Amodei"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is child of",
+    "entity2": "Elena Engel"
+  },
+  {
+    "entity1": "Riccardo Amodei",
+    "relationship": "born in place",
+    "entity2": "Massa Marittima, Tuscany"
+  },
+  {
+    "entity1": "Elena Engel",
+    "relationship": "born in place",
+    "entity2": "Chicago"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "graduated from",
+    "entity2": "Lowell High School"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was member of",
+    "entity2": "USA Physics Olympiad team"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was member of in year",
+    "entity2": "2000"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "attended",
+    "entity2": "Caltech"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received bachelor's degree from",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received PhD from",
+    "entity2": "Princeton University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "awarded Hertz Foundation Fellowship in year",
+    "entity2": "2007"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received Hertz Thesis Prize in year",
+    "entity2": "2011"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "was postdoctoral scholar at",
+    "entity2": "Stanford University School of Medicine"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Baidu from November 2014 to October 2015"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "worked at",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "joined",
+    "entity2": "OpenAI in 2016"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "held role of",
+    "entity2": "vice president of research at OpenAI"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic in 2021"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "co-founded",
+    "entity2": "Anthropic in 2021"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is president of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "declined job offer from",
+    "entity2": "OpenAI in November 2023"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "named Time 100 most influential people in year",
+    "entity2": "2025"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "named Time 100 most influential people in year",
+    "entity2": "2026"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "named Time 100 most influential people in year",
+    "entity2": "2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "estimated value as of May 2026",
+    "entity2": "$965 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "estimated net worth as of May 2026",
+    "entity2": "$15.5 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published essay",
+    "entity2": "Machines of Loving Grace"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published essay in month/year",
+    "entity2": "October 2024"
+  },
+  {
+    "entity1": "Associated Press",
+    "relationship": "published article on",
+    "entity2": "February 27, 2026"
+  },
+  {
+    "entity1": "Associated Press",
+    "relationship": "published article retrieved on",
+    "entity2": "March 11, 2026"
+  },
+  {
+    "entity1": "J. D. Tuccille",
+    "relationship": "published article on",
+    "entity2": "March 11, 2026"
+  },
+  {
+    "entity1": "J. D. Tuccille",
+    "relationship": "wrote article for",
+    "entity2": "Reason"
+  },
+  {
+    "entity1": "J. D. Tuccille",
+    "relationship": "published article retrieved on",
+    "entity2": "March 31, 2026"
+  },
+  {
+    "entity1": "Cato Institute",
+    "relationship": "published article on",
+    "entity2": "March 10, 2026"
+  },
+  {
+    "entity1": "Cato Institute",
+    "relationship": "published article retrieved on",
+    "entity2": "March 31, 2026"
+  },
+  {
+    "entity1": "Elizabeth Nolan Brown",
+    "relationship": "published article on",
+    "entity2": "March 30, 2026"
+  },
+  {
+    "entity1": "Elizabeth Nolan Brown",
+    "relationship": "wrote article for",
+    "entity2": "Reason"
+  },
+  {
+    "entity1": "Elizabeth Nolan Brown",
+    "relationship": "published article retrieved on",
+    "entity2": "March 31, 2026"
+  },
+  {
+    "entity1": "Cory Weinberg",
+    "relationship": "published article on",
+    "entity2": "August 13, 2026"
+  },
+  {
+    "entity1": "Cory Weinberg",
+    "relationship": "wrote article for",
+    "entity2": "The Information"
+  },
+  {
+    "entity1": "Jemima McEvoy",
+    "relationship": "published article on",
+    "entity2": "August 13, 2026"
+  },
+  {
+    "entity1": "Jemima McEvoy",
+    "relationship": "wrote article for",
+    "entity2": "The Information"
+  },
+  {
+    "entity1": "Jessica Lessin",
+    "relationship": "published article on",
+    "entity2": "August 13, 2026"
+  },
+  {
+    "entity1": "Jessica Lessin",
+    "relationship": "wrote article for",
+    "entity2": "The Information"
+  },
+  {
+    "entity1": "Stephanie Palazzolo",
+    "relationship": "published article on",
+    "entity2": "August 13, 2026"
+  },
+  {
+    "entity1": "Stephanie Palazzolo",
+    "relationship": "wrote article for",
+    "entity2": "The Information"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "headquarters location",
+    "entity2": "San Francisco, California"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "organization type",
+    "entity2": "Private"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "industry",
+    "entity2": "Generative AI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded in",
+    "entity2": "2015"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Trevor Blackwell",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "is chairman of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "is president of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sarah Friar",
+    "relationship": "is CFO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "reported 2025 revenue",
+    "entity2": "US$13.1 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "reported 2025 net income",
+    "entity2": "US$-9 billion"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "owns",
+    "entity2": "23.3% of OpenAI"
+  },
+  {
+    "entity1": "OpenAI Foundation",
+    "relationship": "owns",
+    "entity2": "22.5% of OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "number of employees in 2026",
+    "entity2": "4,500"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "subsidiary",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "released",
+    "entity2": "ChatGPT"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in March 2026",
+    "entity2": "US$852 billion"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "resigned from",
+    "entity2": "OpenAI in 2018"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "US government"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Department of Defense"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Los Alamos National Laboratory"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "partnered with",
+    "entity2": "Anduril Industries"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "removed as CEO of",
+    "entity2": "OpenAI in 2023"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "reinstated as CEO of",
+    "entity2": "OpenAI in 2023"
+  },
+  {
+    "entity1": "Vicki Cheung",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Durk Kingma",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "John Schulman",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Pamela Vagata",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Wojciech Zaremba",
+    "relationship": "founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "defined mission as",
+    "entity2": "benefits all of humanity"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "was initially run from",
+    "entity2": "Greg Brockman's living room"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "moved to",
+    "entity2": "Pioneer Building, San Francisco"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "moved to location in",
+    "entity2": "September 2016"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "met with",
+    "entity2": "Yoshua Bengio"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "hired employees in",
+    "entity2": "December 2015"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "spent on first 52 employees",
+    "entity2": "$7 million in 2016"
+  },
+  {
+    "entity1": "Wojciech Zaremba",
+    "relationship": "is co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "released OpenAI Gym in",
+    "entity2": "April 2016"
+  },
+  {
+    "entity1": "Nvidia",
+    "relationship": "gifted DGX-1 supercomputer to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Nvidia",
+    "relationship": "gifted supercomputer in",
+    "entity2": "August 2016"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "released Universe in",
+    "entity2": "December 2016"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "transitioned to capped for-profit in",
+    "entity2": "2019"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "capped profit at",
+    "entity2": "100 times investment"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "formed subsidiary",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "formed subsidiary",
+    "entity2": "OpenAI GP LLC"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "formed subsidiary",
+    "entity2": "OpenAI Global, LLC"
+  },
+  {
+    "entity1": "OpenAI, Inc.",
+    "relationship": "owned",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "OpenAI LP",
+    "relationship": "owned",
+    "entity2": "OpenAI Global, LLC"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "owned stake in",
+    "entity2": "OpenAI Global, LLC"
+  },
+  {
+    "entity1": "OpenAI, Inc.",
+    "relationship": "controlled",
+    "entity2": "OpenAI GP LLC"
+  },
+  {
+    "entity1": "OpenAI GP LLC",
+    "relationship": "controlled",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "OpenAI GP LLC",
+    "relationship": "controlled",
+    "entity2": "OpenAI Global, LLC"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested amount",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "migrated services to",
+    "entity2": "Microsoft Azure"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "systems run on",
+    "entity2": "Azure-based supercomputing platform"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "expected project duration",
+    "entity2": "decades-long"
+  },
+  {
+    "entity1": "OpenAI, Inc.",
+    "relationship": "board barred from financial stakes in",
+    "entity2": "OpenAI LP"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "proposed restructuring to public benefit corporation in",
+    "entity2": "December 2024"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "adopted PBC corporate structure on",
+    "entity2": "October 28, 2025"
+  },
+  {
+    "entity1": "OpenAI for-profit branch",
+    "relationship": "became",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "OpenAI nonprofit",
+    "relationship": "renamed to",
+    "entity2": "OpenAI Foundation"
+  },
+  {
+    "entity1": "OpenAI Foundation",
+    "relationship": "holds stake in OpenAI Group PBC of",
+    "entity2": "26%"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "holds stake in OpenAI Group PBC of",
+    "entity2": "27%"
+  },
+  {
+    "entity1": "Employees and other investors",
+    "relationship": "own stake in OpenAI Group PBC of",
+    "entity2": "47%"
+  },
+  {
+    "entity1": "OpenAI Foundation",
+    "relationship": "appoints members of",
+    "entity2": "OpenAI Group PBC board of directors"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "revised lawsuit against",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "revised lawsuit against",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "lost lawsuit against OpenAI in",
+    "entity2": "May 2026"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "filed for IPO with",
+    "entity2": "US Securities and Exchange Commission"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "filed for IPO on",
+    "entity2": "June 8, 2026"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "confirmed IPO delayed until",
+    "entity2": "2027"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in OpenAI in",
+    "entity2": "2019"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "investment amount in 2019",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "invested in OpenAI through 2022",
+    "entity2": "$2 billion"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "announced investment in OpenAI on",
+    "entity2": "January 23, 2023"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "investment amount announced in 2023",
+    "entity2": "$10 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in 2023",
+    "entity2": "$29 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in 2021",
+    "entity2": "$14.5 billion"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "owned stake in",
+    "entity2": "OpenAI Group PBC"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "owned stake percentage in",
+    "entity2": "27%"
+  },
+  {
+    "entity1": "OpenAI Group PBC",
+    "relationship": "valued at",
+    "entity2": "$135 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "agreed to purchase",
+    "entity2": "$250 billion of Azure services"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "shares revenue with",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "revenue share percentage with",
+    "entity2": "20%"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "spent on cloud computing in 2017",
+    "entity2": "$7.9 million"
+  },
+  {
+    "entity1": "Google DeepMind",
+    "relationship": "total expenses in 2017",
+    "entity2": "$442 million"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "rented computing power from",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "completed capital raise in October 2024 of",
+    "entity2": "$6.6 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in October 2024",
+    "entity2": "$157 billion"
+  },
+  {
+    "entity1": "Donald Trump",
+    "relationship": "announced",
+    "entity2": "The Stargate Project"
+  },
+  {
+    "entity1": "The Stargate Project",
+    "relationship": "is joint venture between",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "The Stargate Project",
+    "relationship": "is joint venture between",
+    "entity2": "Oracle"
+  },
+  {
+    "entity1": "The Stargate Project",
+    "relationship": "is joint venture between",
+    "entity2": "SoftBank"
+  },
+  {
+    "entity1": "The Stargate Project",
+    "relationship": "is joint venture between",
+    "entity2": "MGX"
+  },
+  {
+    "entity1": "The Stargate Project",
+    "relationship": "estimated cost",
+    "entity2": "$500 billion"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "received defense contract of",
+    "entity2": "$200 million"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "made deal with",
+    "entity2": "UK Government"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "began fund for nonprofits of",
+    "entity2": "$50 million"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "raised in April 2025",
+    "entity2": "$40 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in April 2025",
+    "entity2": "$300 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "annualized revenue July 2025",
+    "entity2": "$12 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "revenue in 2024",
+    "entity2": "$3.7 billion"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "paid subscribers April 2025",
+    "entity2": "20 million"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "paid subscribers end of 2024",
+    "entity2": "15.5 million"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "business users",
+    "entity2": "5 million"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "raised in February 2026",
+    "entity2": "$110 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in February 2026",
+    "entity2": "$730 billion"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested in OpenAI",
+    "entity2": "$50 billion"
+  },
+  {
+    "entity1": "SoftBank",
+    "relationship": "invested in OpenAI",
+    "entity2": "$30 billion"
+  },
+  {
+    "entity1": "Nvidia",
+    "relationship": "invested in OpenAI",
+    "entity2": "$30 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "raised in March 2026",
+    "entity2": "$120 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "raised in April 2026",
+    "entity2": "$122 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in April 2026",
+    "entity2": "$852 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "reports revenue growth in",
+    "entity2": "2025"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects operating loss in 2025",
+    "entity2": "$8 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects spending through 2029",
+    "entity2": "$115 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects expenditure in 2026",
+    "entity2": "$17 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects expenditure in 2027",
+    "entity2": "$35 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects expenditure in 2028",
+    "entity2": "$45 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "forecasts cash-flow-positive by",
+    "entity2": "2029"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projects revenue by 2030",
+    "entity2": "$200 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "completed share sale in",
+    "entity2": "October 2025"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "share sale amount",
+    "entity2": "$10 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "valuation in October 2025",
+    "entity2": "$500 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "surpassed as most valuable private company",
+    "entity2": "SpaceX"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projected advertising revenue for 2026",
+    "entity2": "$2.5 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "projected annual advertising revenue by 2030",
+    "entity2": "$100 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "held talks with",
+    "entity2": "White House"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "advertising revenue run rate in August 2026",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "terminated API access for",
+    "entity2": "Cursor"
+  },
+  {
+    "entity1": "SpaceX",
+    "relationship": "acquired",
+    "entity2": "Cursor"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "launched",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "launched in",
+    "entity2": "May 2026"
+  },
+  {
+    "entity1": "TPG",
+    "relationship": "led investment in",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "received initial investment of",
+    "entity2": "$4 billion"
+  },
+  {
+    "entity1": "Advent International",
+    "relationship": "co-lead founding partner of",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Bain Capital",
+    "relationship": "co-lead founding partner of",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "Brookfield",
+    "relationship": "co-lead founding partner of",
+    "entity2": "OpenAI Deployment Company"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "pre-financing valuation",
+    "entity2": "$10 billion"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "post-financing valuation",
+    "entity2": "$14 billion"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "acquired",
+    "entity2": "Tomoro"
+  },
+  {
+    "entity1": "OpenAI Deployment Company",
+    "relationship": "acquired",
+    "entity2": "Northslope"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Global Illumination"
+  },
+  {
+    "entity1": "Global Illumination",
+    "relationship": "acquired in",
+    "entity2": "August 2023"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "acquired",
+    "entity2": "Multi"
+  },
+  {
+    "entity1": "Multi",
+    "relationship": "acquired in",
+    "entity2": "June 2024"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "led consortium bid for",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "submitted bid on",
+    "entity2": "February 10, 2025"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "bid amount",
+    "entity2": "$97.4 billion"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "born on",
+    "entity2": "April 22, 1985"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "born in",
+    "entity2": "Chicago"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "nationality",
+    "entity2": "American"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "is CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "CEO of OpenAI since",
+    "entity2": "2019"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "attended",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "co-founded",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Loopt",
+    "relationship": "acquired by",
+    "entity2": "Green Dot Corporation"
+  },
+  {
+    "entity1": "Green Dot Corporation",
+    "relationship": "paid for Loopt",
+    "entity2": "$43.4 million"
+  },
+  {
+    "entity1": "Loopt",
+    "relationship": "acquired in",
+    "entity2": "March 2012"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "joined",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "joined Y Combinator in",
+    "entity2": "2011"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "president of Y Combinator from",
+    "entity2": "2014 to 2019"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "invested in",
+    "entity2": "Reddit"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "invested in",
+    "entity2": "Worldcoin"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "invested in",
+    "entity2": "Helion Energy"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "invested in",
+    "entity2": "Instacart"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "co-founded",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "co-founded OpenAI in",
+    "entity2": "2015"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "supervised launch of",
+    "entity2": "ChatGPT"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "launched in",
+    "entity2": "November 2022"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "ousted by",
+    "entity2": "OpenAI board of directors"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "ousted in",
+    "entity2": "2023"
+  },
+  {
+    "entity1": "Connie Gibstine",
+    "relationship": "mother of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Jerry Altman",
+    "relationship": "father of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Max Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Jack Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Ann Altman",
+    "relationship": "sibling of",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "moved to",
+    "entity2": "Clayton, Missouri"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "moved in",
+    "entity2": "1989"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "attended",
+    "entity2": "John Burroughs School"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "dropped out of",
+    "entity2": "Stanford University"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "dropped out in",
+    "entity2": "2005"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "raised venture capital for",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Patrick Chung",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Patrick Chung",
+    "relationship": "is part of",
+    "entity2": "Xfund"
+  },
+  {
+    "entity1": "Sequoia Capital",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Y Combinator",
+    "relationship": "invested in",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "became partner at",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Paul Graham",
+    "relationship": "mentor to",
+    "entity2": "Samuel Harris Altman"
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "invested in",
+    "entity2": "Stripe, Inc."
+  },
+  {
+    "entity1": "Samuel Harris Altman",
+    "relationship": "president of YC Group in",
+    "entity2": "September 2016"
+  },
+  {
+    "entity1": "Y Combinator",
+    "relationship": "moved headquarters to",
+    "entity2": "San Francisco"
+  },
+  {
+    "entity1": "Y Combinator",
+    "relationship": "moved in",
+    "entity2": "2019"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is investment portfolio size as of June 2024",
+    "entity2": "400 companies"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is investment portfolio value as of June 2024",
+    "entity2": "$2.8 billion"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "is chairman of the board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "co-founded",
+    "entity2": "Hydrazine Capital"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is brother of",
+    "entity2": "Jack Altman"
+  },
+  {
+    "entity1": "Hydrazine Capital",
+    "relationship": "was founded in",
+    "entity2": "2012"
+  },
+  {
+    "entity1": "Hydrazine Capital",
+    "relationship": "initial fund size",
+    "entity2": "$21 million"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "earned from sale of Loopt",
+    "entity2": "$5 million"
+  },
+  {
+    "entity1": "Peter Thiel",
+    "relationship": "is mentor of",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested 75 percent of Hydrazine Capital in",
+    "entity2": "Y-Combinator"
+  },
+  {
+    "entity1": "University of Michigan",
+    "relationship": "was sole outside investor in",
+    "entity2": "Hydrazine Capital 2023 fund"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "net worth in March 2024",
+    "entity2": "$2 billion"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "attended Bilderberg Meeting in",
+    "entity2": "2016, 2022, 2023"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Humane"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Retro Biosciences"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Boom Technology"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Cruise"
+  },
+  {
+    "entity1": "General Motors",
+    "relationship": "acquired",
+    "entity2": "Cruise"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Helion Energy"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "helped create",
+    "entity2": "Project Covalence"
+  },
+  {
+    "entity1": "Project Covalence",
+    "relationship": "partnered with",
+    "entity2": "TrialSpark"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Airbnb"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Stripe"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Minicircle"
+  },
+  {
+    "entity1": "Peter Thiel",
+    "relationship": "invested in",
+    "entity2": "Minicircle"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Pr\u00f3spera"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Praxis"
+  },
+  {
+    "entity1": "Balaji Srinivasan",
+    "relationship": "provided support to",
+    "entity2": "Pr\u00f3spera"
+  },
+  {
+    "entity1": "Balaji Srinivasan",
+    "relationship": "provided support to",
+    "entity2": "Praxis"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was CEO of",
+    "entity2": "Reddit"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "served as CEO of Reddit in",
+    "entity2": "2014"
+  },
+  {
+    "entity1": "Steve Huffman",
+    "relationship": "became CEO of",
+    "entity2": "Reddit"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "served on board of",
+    "entity2": "Reddit until 2022"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in Reddit in",
+    "entity2": "2014, 2015, 2021"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "owns",
+    "entity2": "9 percent of Reddit"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "co-founded",
+    "entity2": "Tools For Humanity"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "was founded in",
+    "entity2": "2019"
+  },
+  {
+    "entity1": "Alex Blania",
+    "relationship": "is CEO of",
+    "entity2": "Tools For Humanity"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "promotes",
+    "entity2": "Worldcoin"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "raised capital from",
+    "entity2": "Andreessen Horowitz"
+  },
+  {
+    "entity1": "Tools For Humanity",
+    "relationship": "raised capital from",
+    "entity2": "Sam Bankman-Fried"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "France"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "United Kingdom"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "Bavaria"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "South Korea"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "Spain"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "Portugal"
+  },
+  {
+    "entity1": "WorldCoin",
+    "relationship": "investigated or suspended by",
+    "entity2": "Hong Kong"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is chairman of the board for",
+    "entity2": "Helion Energy"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "invested in",
+    "entity2": "Exowatt"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "co-founded",
+    "entity2": "AltC Acquisition Corp"
+  },
+  {
+    "entity1": "Michael Klein",
+    "relationship": "co-founded",
+    "entity2": "AltC Acquisition Corp"
+  },
+  {
+    "entity1": "AltC Acquisition Corp",
+    "relationship": "founded in",
+    "entity2": "March 2021"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was CEO of",
+    "entity2": "AltC Acquisition Corp"
+  },
+  {
+    "entity1": "Oklo Inc.",
+    "relationship": "merged with",
+    "entity2": "AltC Acquisition Corp"
+  },
+  {
+    "entity1": "Oklo Inc.",
+    "relationship": "completed merger in",
+    "entity2": "May 2024"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was chairman of",
+    "entity2": "Oklo Inc."
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "stepped down from Oklo Inc. in",
+    "entity2": "April 2025"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Greg Brockman"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Elon Musk"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Jessica Livingston"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Peter Thiel"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Amazon Web Services"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "Infosys"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "founded by",
+    "entity2": "YC Research"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "launched in",
+    "entity2": "2015"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "raised pledges for",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "collected pledged funds in 2019",
+    "entity2": "$130 million"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "agreed with",
+    "entity2": "Dario Amodei"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "resigned from Board of Directors of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "resigned from OpenAI in",
+    "entity2": "2018"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "sued",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "sued",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "sued in",
+    "entity2": "February 2024"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "received from Elon Musk",
+    "entity2": "$45 million"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "left",
+    "entity2": "Y Combinator"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "left Y Combinator in",
+    "entity2": "March 2019"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "became CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "launched",
+    "entity2": "ChatGPT"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "based on",
+    "entity2": "GPT-3.5"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "launched ChatGPT in",
+    "entity2": "December 2022"
+  },
+  {
+    "entity1": "ChatGPT",
+    "relationship": "received signups of",
+    "entity2": "1 million"
+  },
+  {
+    "entity1": "OpenAI Global, LLC",
+    "relationship": "projected 2023 revenue of",
+    "entity2": "$200 million"
+  },
+  {
+    "entity1": "OpenAI Global, LLC",
+    "relationship": "projected 2024 revenue of",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "US adults under 30",
+    "relationship": "used ChatGPT by March 2025 at rate of",
+    "entity2": "58%"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "testified before",
+    "entity2": "United States Senate Judiciary Subcommittee"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "testified on",
+    "entity2": "May 16, 2023"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "toured in",
+    "entity2": "May 2023"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Rishi Sunak"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Emmanuel Macron"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Pedro S\u00e1nchez"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Olaf Scholz"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Narendra Modi"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Yoon Suk-yeol"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Isaac Herzog"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "met with",
+    "entity2": "Ursula von der Leyen"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "named by",
+    "entity2": "Time magazine"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "held position of",
+    "entity2": "CEO of OpenAI"
+  },
+  {
+    "entity1": "Helen Toner",
+    "relationship": "served on board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Adam D'Angelo",
+    "relationship": "served on board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Tasha McCauley",
+    "relationship": "served on board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "served on board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "removed as CEO on",
+    "entity2": "November 17, 2023"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "removed from board on",
+    "entity2": "November 17, 2023"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "resigned as President of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "worked with",
+    "entity2": "Chris Lehane"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "worked with",
+    "entity2": "Brian Chesky"
+  },
+  {
+    "entity1": "Mira Murati",
+    "relationship": "served as interim CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Satya Nadella",
+    "relationship": "announced Sam Altman joining",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "Satya Nadella",
+    "relationship": "is CEO of",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "Ilya Sutskever",
+    "relationship": "joined open letter to",
+    "entity2": "OpenAI board"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "reinstated as CEO on",
+    "entity2": "November 21, 2023"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "returned to OpenAI on",
+    "entity2": "November 21, 2023"
+  },
+  {
+    "entity1": "Bret Taylor",
+    "relationship": "became chairman of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Lawrence Summers",
+    "relationship": "joined board of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Greg Brockman",
+    "relationship": "took sabbatical from",
+    "entity2": "August 2024 to November 2024"
+  },
+  {
+    "entity1": "Helen Toner",
+    "relationship": "was board member of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was fired from",
+    "entity2": "OpenAI in 2023"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "held ownership of",
+    "entity2": "OpenAI startup fund"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was CEO of",
+    "entity2": "Loopt"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "spoke at",
+    "entity2": "G20 Innovation Ministerial on September 2, 2026"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "is co-founder of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "filed lawsuit against",
+    "entity2": "Sam Altman"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "filed lawsuit against",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Elon Musk",
+    "relationship": "lost lawsuit against",
+    "entity2": "Sam Altman and OpenAI"
+  },
+  {
+    "entity1": "Rishi Sunak",
+    "relationship": "met with",
+    "entity2": "Sam Altman in May 2023"
+  },
+  {
+    "entity1": "Demis Hassabis",
+    "relationship": "is CEO of",
+    "entity2": "DeepMind"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "is CEO of",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "announced",
+    "entity2": "the United Slate in 2018"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "hosted fundraiser for",
+    "entity2": "Andrew Yang in 2019"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "donated to",
+    "entity2": "American Bridge 21st Century in May 2020"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "donated amount of",
+    "entity2": "$250,000"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "supported",
+    "entity2": "Joe Biden in 2020"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "published blog post",
+    "entity2": "Moore's Law for Everything in 2021"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was interviewed by",
+    "entity2": "Nicholas Thompson in April 2026"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "supported",
+    "entity2": "Dean Phillips in 2023"
+  },
+  {
+    "entity1": "Daniel Lurie",
+    "relationship": "named Sam Altman to",
+    "entity2": "transition team on November 18, 2024"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "donated to",
+    "entity2": "Inaugural Fund for Donald Trump in December 2024"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "donated amount of",
+    "entity2": "$1 million"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "hosted fundraiser for",
+    "entity2": "Mark Warner on March 20, 2025"
+  },
+  {
+    "entity1": "Sam Altman",
+    "relationship": "was interviewed by",
+    "entity2": "Tucker Carlson in September 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Amazon Web Services"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "provided model to",
+    "entity2": "U.S. intelligence and defense agencies"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced",
+    "entity2": "Claude Gov"
+  },
+  {
+    "entity1": "Claude Gov",
+    "relationship": "is in use at",
+    "entity2": "U.S. national security agencies"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Claude",
+    "relationship": "is used in",
+    "entity2": "classified missions"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "received contract amount",
+    "entity2": "$200 million"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "OpenAI"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "awarded contract to",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "used",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "raided",
+    "entity2": "Venezuela"
+  },
+  {
+    "entity1": "Nicol\u00e1s Maduro",
+    "relationship": "is president of",
+    "entity2": "Venezuela"
+  },
+  {
+    "entity1": "2026 raid on Venezuela",
+    "relationship": "resulted in deaths of",
+    "entity2": "83 people"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "has policy prohibiting",
+    "entity2": "domestic surveillance"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "has policy prohibiting",
+    "entity2": "fully autonomous weapons"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "is",
+    "entity2": "Defense Secretary"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "threatened",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Donald Trump",
+    "relationship": "is",
+    "entity2": "President of the United States"
+  },
+  {
+    "entity1": "Donald Trump",
+    "relationship": "ordered",
+    "entity2": "U.S. government agencies"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "used",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "used",
+    "entity2": "Maven Smart System"
+  },
+  {
+    "entity1": "Maven Smart System",
+    "relationship": "is product of",
+    "entity2": "Palantir"
+  },
+  {
+    "entity1": "Pentagon",
+    "relationship": "is investigating",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "U.S. strike on Iranian girls' school",
+    "relationship": "killed",
+    "entity2": "170 people"
+  },
+  {
+    "entity1": "Pentagon",
+    "relationship": "deemed",
+    "entity2": "Anthropic a supply chain risk"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "filed lawsuit against",
+    "entity2": "United States Department of Defense"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "supported",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "supported",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Apple",
+    "relationship": "supported",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Microsoft",
+    "relationship": "supported",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "launched",
+    "entity2": "Higher Education Advisory Board"
+  },
+  {
+    "entity1": "Rick Levin",
+    "relationship": "chairs",
+    "entity2": "Higher Education Advisory Board"
+  },
+  {
+    "entity1": "Rick Levin",
+    "relationship": "is former president of",
+    "entity2": "Yale University"
+  },
+  {
+    "entity1": "Rick Levin",
+    "relationship": "is former CEO of",
+    "entity2": "Coursera"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "partnered with",
+    "entity2": "Iceland's Ministry of Education and Children"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "operates",
+    "entity2": "Project Panama"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired pirated copies",
+    "entity2": "7 million"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "settled lawsuit for",
+    "entity2": "$1.5 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published essay",
+    "entity2": "The Adolescence of Technology"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published essay in",
+    "entity2": "January 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "observed AI behavior",
+    "entity2": "deception"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "observed AI behavior",
+    "entity2": "blackmail"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "observed AI behavior",
+    "entity2": "scheming"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "expressed concern about",
+    "entity2": "biological weapons"
+  },
+  {
+    "entity1": "Chinese Communist Party",
+    "relationship": "identified as",
+    "entity2": "greatest threat regarding AI misuse"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "warned of",
+    "entity2": "displacement of half of entry-level white-collar jobs"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "warned of",
+    "entity2": "economic wealth concentration"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "refused contractual changes for",
+    "entity2": "United States Department of Defense"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "refused contractual changes in",
+    "entity2": "February 2026"
+  },
+  {
+    "entity1": "Pete Hegseth",
+    "relationship": "led",
+    "entity2": "United States Department of Defense"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "labeled",
+    "entity2": "Anthropic as supply-chain risk"
+  },
+  {
+    "entity1": "Trump administration",
+    "relationship": "ordered US agencies to stop using",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "federal judge",
+    "relationship": "issued temporary injunction against",
+    "entity2": "United States Department of Defense"
+  },
+  {
+    "entity1": "federal judge",
+    "relationship": "issued temporary injunction on",
+    "entity2": "March 26, 2026"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "began dating",
+    "entity2": "Camilla Clark"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "began dating in",
+    "entity2": "2014"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "married",
+    "entity2": "Camilla Clark"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "married in",
+    "entity2": "2022"
+  },
+  {
+    "entity1": "Madhumita Murgia",
+    "relationship": "authored article published on",
+    "entity2": "December 5, 2024"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is CEO of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Edoardo Frasso",
+    "relationship": "authored article published on",
+    "entity2": "November 27, 2023"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is sibling of",
+    "entity2": "Daniela Amodei"
+  },
+  {
+    "entity1": "Elena Engel",
+    "relationship": "was project manager for",
+    "entity2": "Berkeley library renovation"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "received PhD from",
+    "entity2": "Princeton University"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published thesis in year",
+    "entity2": "2011"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is listed in",
+    "entity2": "TIME100 AI 2023"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is listed in",
+    "entity2": "TIME100 AI 2023"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is listed in",
+    "entity2": "TIME 100 Most Influential People of 2025"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is listed in",
+    "entity2": "TIME 100 Most Influential People of 2026"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is listed in",
+    "entity2": "TIME 100 Most Influential People of 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised funding of",
+    "entity2": "$65 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "has post-money valuation of",
+    "entity2": "$965 billion"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "wrote article titled",
+    "entity2": "The Adolescence of Technology"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "published article in month",
+    "entity2": "January 2026"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "is cofounder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Daniela Amodei",
+    "relationship": "is cofounder of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "launched",
+    "entity2": "web search API"
+  },
+  {
+    "entity1": "Claude",
+    "relationship": "enabled to access",
+    "entity2": "real-time information"
+  },
+  {
+    "entity1": "Claude Code",
+    "relationship": "is product of",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Claude Code",
+    "relationship": "reached",
+    "entity2": "general availability"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed contract with",
+    "entity2": "US Department of Defense"
+  },
+  {
+    "entity1": "US Department of Defense contract",
+    "relationship": "date",
+    "entity2": "July 2025"
+  },
+  {
+    "entity1": "US Department of Defense contract",
+    "relationship": "duration",
+    "entity2": "two years"
+  },
+  {
+    "entity1": "US Department of Defense contract",
+    "relationship": "value",
+    "entity2": "$200 million"
+  },
+  {
+    "entity1": "Anthropic LLMs",
+    "relationship": "integrated with",
+    "entity2": "Pentagon classified intelligence networks"
+  },
+  {
+    "entity1": "Anthropic LLMs",
+    "relationship": "integrated with",
+    "entity2": "Palantir data platform"
+  },
+  {
+    "entity1": "Dario Amodei",
+    "relationship": "clarified policy on",
+    "entity2": "AI use"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "banned product sales to",
+    "entity2": "Chinese-owned entities"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "banned product sales to",
+    "entity2": "Russian-owned entities"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "banned product sales to",
+    "entity2": "Iranian-owned entities"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "banned product sales to",
+    "entity2": "North Korean-owned entities"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced partnership with",
+    "entity2": "Google"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "date of Google partnership",
+    "entity2": "October 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "gained access to",
+    "entity2": "one million Google Tensor Processing Units"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "expected investment from",
+    "entity2": "Nvidia"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "expected investment from",
+    "entity2": "Microsoft"
+  },
+  {
+    "entity1": "Nvidia and Microsoft investment",
+    "relationship": "value",
+    "entity2": "$15 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "planned purchase from",
+    "entity2": "Microsoft Azure"
+  },
+  {
+    "entity1": "Anthropic planned purchase",
+    "relationship": "value",
+    "entity2": "$30 billion"
+  },
+  {
+    "entity1": "Chinese government sponsored hackers",
+    "relationship": "used",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "Chinese government sponsored hackers",
+    "relationship": "performed",
+    "entity2": "automated cyberattacks"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Bun"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "date of Bun acquisition",
+    "entity2": "December 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed partnership with",
+    "entity2": "Snowflake Inc."
+  },
+  {
+    "entity1": "Anthropic and Snowflake Inc. partnership",
+    "relationship": "value",
+    "entity2": "$200 million"
+  },
+  {
+    "entity1": "Claude",
+    "relationship": "used in",
+    "entity2": "2026 United States intervention in Venezuela"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "aired",
+    "entity2": "two commercials"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "aired commercials during",
+    "entity2": "Super Bowl LX"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "launched marketing campaign",
+    "entity2": "A Time and a Place"
+  },
+  {
+    "entity1": "Mother",
+    "relationship": "created",
+    "entity2": "four ads"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "business model",
+    "entity2": "ad-free"
+  },
+  {
+    "entity1": "OpenAI",
+    "relationship": "business model",
+    "entity2": "ads in ChatGPT"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "donated $20 million to",
+    "entity2": "Public First Action"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused",
+    "entity2": "DeepSeek"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused",
+    "entity2": "Moonshot AI"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused",
+    "entity2": "MiniMax Group"
+  },
+  {
+    "entity1": "DeepSeek, Moonshot AI, and MiniMax Group",
+    "relationship": "generated",
+    "entity2": "16 million chats"
+  },
+  {
+    "entity1": "DeepSeek, Moonshot AI, and MiniMax Group",
+    "relationship": "used",
+    "entity2": "24,000 fraudulent accounts"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "accused",
+    "entity2": "Alibaba Cloud"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "refused demand from",
+    "entity2": "United States Department of Defense"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "designated as supply chain risk",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "United States Department of Defense",
+    "relationship": "barred contractors from doing business with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "used",
+    "entity2": "Claude"
+  },
+  {
+    "entity1": "United States military",
+    "relationship": "used Claude in",
+    "entity2": "2026 Iran war"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced deal with",
+    "entity2": "xAI"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "acquired",
+    "entity2": "Stainless"
+  },
+  {
+    "entity1": "Stainless",
+    "relationship": "acquired on",
+    "entity2": "May 18, 2026"
+  },
+  {
+    "entity1": "Claude Code",
+    "relationship": "is a",
+    "entity2": "command-line AI agent"
+  },
+  {
+    "entity1": "Cowork",
+    "relationship": "is a",
+    "entity2": "graphical user interface AI agent"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "coined the term",
+    "entity2": "vibe coding"
+  },
+  {
+    "entity1": "Andrej Karpathy",
+    "relationship": "coined the term in",
+    "entity2": "February 2025"
+  },
+  {
+    "entity1": "Claude",
+    "relationship": "release date",
+    "entity2": "March 2023"
+  },
+  {
+    "entity1": "Claude Instant",
+    "relationship": "release date",
+    "entity2": "March 2023"
+  },
+  {
+    "entity1": "Claude 2",
+    "relationship": "release date",
+    "entity2": "July 2023"
+  },
+  {
+    "entity1": "Claude 3 Opus",
+    "relationship": "release date",
+    "entity2": "March 2024"
+  },
+  {
+    "entity1": "Claude 3 Sonnet",
+    "relationship": "release date",
+    "entity2": "March 2024"
+  },
+  {
+    "entity1": "Claude 3 Haiku",
+    "relationship": "release date",
+    "entity2": "March 2024"
+  },
+  {
+    "entity1": "Claude 3.5 Sonnet",
+    "relationship": "release date",
+    "entity2": "June 2024"
+  },
+  {
+    "entity1": "Claude 4 Opus",
+    "relationship": "release date",
+    "entity2": "May 2025"
+  },
+  {
+    "entity1": "Claude 4 Sonnet",
+    "relationship": "release date",
+    "entity2": "May 2025"
+  },
+  {
+    "entity1": "Claude Opus 4.6",
+    "relationship": "release date",
+    "entity2": "February 2026"
+  },
+  {
+    "entity1": "Claude Sonnet 4.6",
+    "relationship": "release date",
+    "entity2": "February 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced",
+    "entity2": "Mythos"
+  },
+  {
+    "entity1": "Mythos",
+    "relationship": "announcement date",
+    "entity2": "April 2026"
+  },
+  {
+    "entity1": "Opus 5.5",
+    "relationship": "unveiled date",
+    "entity2": "September 22, 2026"
+  },
+  {
+    "entity1": "Sonnet 5.5",
+    "relationship": "release date",
+    "entity2": "September 28, 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "received funding amount",
+    "entity2": "$580 million"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "received funding date",
+    "entity2": "April 2022"
+  },
+  {
+    "entity1": "FTX",
+    "relationship": "invested in",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "FTX",
+    "relationship": "investment amount",
+    "entity2": "$500 million"
+  },
+  {
+    "entity1": "Sam Bankman-Fried",
+    "relationship": "led",
+    "entity2": "FTX"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "partnered with",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "partnership date",
+    "entity2": "September 2023"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "became",
+    "entity2": "minority stakeholder in Anthropic"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested",
+    "entity2": "$1.25 billion"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested",
+    "entity2": "$2.75 billion"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested date",
+    "entity2": "March 2024"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested",
+    "entity2": "$4 billion"
+  },
+  {
+    "entity1": "Amazon",
+    "relationship": "invested date",
+    "entity2": "November 2024"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "uses cloud provider",
+    "entity2": "Amazon Web Services"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "invested",
+    "entity2": "$500 million"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "invested date",
+    "entity2": "October 2023"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "committed",
+    "entity2": "$1.5 billion"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "agreed to invest",
+    "entity2": "$1 billion"
+  },
+  {
+    "entity1": "Google",
+    "relationship": "agreed to invest date",
+    "entity2": "March 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised",
+    "entity2": "$3.5 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "funding round",
+    "entity2": "Series E"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "funding round date",
+    "entity2": "March 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation",
+    "entity2": "$61.5 billion"
+  },
+  {
+    "entity1": "Lightspeed Venture Partners",
+    "relationship": "led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised",
+    "entity2": "$13 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "funding round",
+    "entity2": "Series F"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "funding round date",
+    "entity2": "September 2025"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation",
+    "entity2": "$183 billion"
+  },
+  {
+    "entity1": "Iconiq Capital",
+    "relationship": "co-led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Fidelity Management & Research",
+    "relationship": "co-led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Lightspeed Venture Partners",
+    "relationship": "co-led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Qatar Investment Authority",
+    "relationship": "participated in funding",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "signed term sheet",
+    "entity2": "$10 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "term sheet date",
+    "entity2": "31 December 2025"
+  },
+  {
+    "entity1": "Coatue",
+    "relationship": "led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "GIC",
+    "relationship": "led funding round",
+    "entity2": "Anthropic"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation",
+    "entity2": "$350 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised",
+    "entity2": "$30 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "funding round",
+    "entity2": "Series G"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "announced date",
+    "entity2": "February 12, 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation",
+    "entity2": "$380 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised",
+    "entity2": "$65 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "raised date",
+    "entity2": "May 2026"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "valuation",
+    "entity2": "$965 billion"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "created",
+    "entity2": "Ode"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "collaboration partners",
+    "entity2": "Blackstone"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "collaboration partners",
+    "entity2": "Hellman & Friedman"
+  },
+  {
+    "entity1": "Anthropic",
+    "relationship": "collaboration partners",
+    "entity2": "Goldman Sachs"
+  }
+]

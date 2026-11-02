@@ -1,0 +1,282 @@
+{
+  "1": {
+    "question": "In what year was Anthropic founded?",
+    "answer_key": "2021",
+    "graph": {
+      "entities": [
+        "Anthropic"
+      ],
+      "facts": 104,
+      "answer": "The provided facts do not contain information regarding the year Anthropic was founded."
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Anthropic was founded in January 2021."
+    }
+  },
+  "2": {
+    "question": "Which company did Anthropic acquire in December 2025?",
+    "answer_key": "Bun",
+    "graph": {
+      "entities": [
+        "Cursor"
+      ],
+      "facts": 63,
+      "answer": "The provided facts do not contain information regarding acquisitions made by Anthropic, nor do they contain information about events occurring in December 2025."
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "In December 2025, Anthropic acquired Bun."
+    }
+  },
+  "3": {
+    "question": "How much did Anthropic agree to pay authors to settle the copyright lawsuit?",
+    "answer_key": "$1.5 billion",
+    "graph": {
+      "entities": [],
+      "facts": 0,
+      "answer": "NO ENTITIES MATCHED"
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Anthropic agreed to pay $1.5 billion to settle the copyright infringement lawsuit involving authors."
+    }
+  },
+  "4": {
+    "question": "Who leads the Anthropic Institute?",
+    "answer_key": "Jack Clark",
+    "graph": {
+      "entities": [],
+      "facts": 0,
+      "answer": "NO ENTITIES MATCHED"
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Jack Clark leads the Anthropic Institute."
+    }
+  },
+  "5": {
+    "question": "In what year was Dario Amodei born?",
+    "answer_key": "1983",
+    "graph": {
+      "entities": [
+        "Dario Amodei"
+      ],
+      "facts": 145,
+      "answer": "The provided facts do not contain information about the year Dario Amodei was born."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Dario Amodei was born in 1983."
+    }
+  },
+  "6": {
+    "question": "Which university awarded Dario Amodei his PhD?",
+    "answer_key": "Princeton University",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "Princeton University"
+      ],
+      "facts": 145,
+      "answer": "Princeton University awarded Dario Amodei his doctorate."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Princeton University awarded Dario Amodei his PhD."
+    }
+  },
+  "7": {
+    "question": "Which company did Dario Amodei work at from November 2014 to October 2015?",
+    "answer_key": "Baidu",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "Google"
+      ],
+      "facts": 148,
+      "answer": "The provided facts do not contain enough information to answer which company Dario Amodei worked at between November 2014 and October 2015."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Dario Amodei worked at Baidu from November 2014 until October 2015."
+    }
+  },
+  "8": {
+    "question": "In what year did Dario Amodei join OpenAI?",
+    "answer_key": "2016",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "OpenAI"
+      ],
+      "facts": 159,
+      "answer": "The provided facts do not contain information about the year Dario Amodei joined OpenAI."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "openai_wikipedia.txt",
+        "openai_wikipedia.txt"
+      ],
+      "answer": "Dario Amodei joined OpenAI in 2016."
+    }
+  },
+  "9": {
+    "question": "Which Anthropic co-founder was previously OpenAI's Vice President of Research?",
+    "answer_key": "Dario Amodei",
+    "graph": {
+      "entities": [
+        "Dario Amodei"
+      ],
+      "facts": 145,
+      "answer": "According to the facts provided, Dario Amodei is a co-founder of Anthropic and was previously the Vice President of Research at OpenAI."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Dario Amodei was previously the vice president of research at OpenAI."
+    }
+  },
+  "10": {
+    "question": "How are Dario and Daniela Amodei related, and what are their roles at Anthropic?",
+    "answer_key": "Siblings; Dario is CEO, Daniela is president",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Anthropic"
+      ],
+      "facts": 154,
+      "answer": "Based on the provided facts, Dario Amodei and Daniela Amodei are siblings (Dario is the brother of Daniela).\n\nTheir roles at Anthropic are as follows:\n*   **Dario Amodei:** Co-founder and CEO.\n*   **Daniela Amodei:** Co-founder and President."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Dario and Daniela Amodei are siblings. At Anthropic, Dario Amodei serves as the CEO, and Daniela Amodei serves as the president."
+    }
+  },
+  "11": {
+    "question": "Which Anthropic co-founder previously worked at Baidu?",
+    "answer_key": "Dario Amodei",
+    "graph": {
+      "entities": [
+        "Jared Kaplan"
+      ],
+      "facts": 66,
+      "answer": "The provided facts do not contain information about where the Anthropic co-founders worked prior to founding Anthropic."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "The provided text does not contain enough information to answer which Anthropic co-founder previously worked at Baidu. While the text states that Dario Amodei worked at Baidu from November 2014 until October 2015, it does not explicitly state that he was a co-founder of Anthropic at that time, nor does it link any other co-founder to Baidu."
+    }
+  },
+  "12": {
+    "question": "In November 2023, OpenAI's board approached the head of which company about replacing Sam Altman?",
+    "answer_key": "Anthropic (its CEO, Dario Amodei)",
+    "graph": {
+      "entities": [
+        "Anthropic"
+      ],
+      "facts": 104,
+      "answer": "The provided facts do not contain information about OpenAI's board approaching anyone about replacing Sam Altman in November 2023."
+    },
+    "vector": {
+      "sources": [
+        "openai_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "openai_wikipedia.txt",
+        "openai_wikipedia.txt",
+        "openai_wikipedia.txt"
+      ],
+      "answer": "In November 2023, the board of directors of OpenAI approached Dario Amodei, the head of Anthropic, about replacing Sam Altman."
+    }
+  },
+  "13": {
+    "question": "How many people founded Anthropic?",
+    "answer_key": "AMBIGUOUS: 7 (body text) or 8 (infobox list)",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Jared Kaplan",
+        "Jack Clark",
+        "Chris Olah",
+        "Ben Mann",
+        "Sam McCandlish"
+      ],
+      "facts": 146,
+      "answer": "Based on the provided facts, seven people founded Anthropic:\n\n1. Dario Amodei\n2. Daniela Amodei\n3. Jared Kaplan\n4. Jack Clark\n5. Chris Olah\n6. Ben Mann\n7. Sam McCandlish\n8. Tom Brown\n\n(Note: The facts list these individuals as having \"co-founded\" Anthropic.)"
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "According to the provided text, Anthropic was founded by seven former employees of OpenAI. The list of founders provided includes:\n\n*   Dario Amodei\n*   Daniela Amodei\n*   Jared Kaplan\n*   Jack Clark\n*   Chris Olah\n*   Ben Mann\n*   Sam McCandlish"
+    }
+  }
+}

@@ -1,0 +1,352 @@
+=== Anthropic ===
+Anthropic -- launched --> Anthropic Institute
+Anthropic -- rival of --> OpenAI
+Anthropic -- develops --> Claude
+Anthropic -- developed --> Claude
+Anthropic -- produces --> Claude
+Anthropic -- flagship product --> Claude
+Anthropic -- develops --> Claude Code
+Anthropic -- develops --> Claude Cowork
+Anthropic -- develops --> Claude Mythos
+Anthropic -- developed --> Claude Mythos
+Anthropic -- announced model --> Claude Mythos
+Anthropic -- acquired --> Bun
+Anthropic -- acquired --> Stainless
+Anthropic -- partnered with --> Palantir
+Anthropic -- partners with --> Palantir
+Anthropic -- signed contract with --> Department of Defense
+Anthropic -- partnered with --> Google
+Anthropic -- announced partnership with --> Google
+Anthropic -- uses cloud services of --> Amazon Web Services
+Anthropic -- partnered with --> Amazon Web Services
+Anthropic -- uses cloud provider --> Amazon Web Services
+Anthropic -- partnered with --> Snowflake Inc.
+Anthropic -- signed partnership with --> Snowflake Inc.
+Anthropic -- partnered with --> xAI
+Anthropic -- announced deal with --> xAI
+Anthropic -- signed cloud computing deal with --> Akamai Technologies
+Anthropic -- partnered with --> Akamai Technologies
+Anthropic -- signed lease agreement with --> TeraWulf Inc.
+Anthropic -- partnered with --> AMD
+Anthropic -- signed cloud-computing agreement with --> Nscale
+Anthropic -- partnered with --> Nscale
+Anthropic -- agreed to cloud deal with --> Nscale
+Anthropic -- co-created --> Ode
+Anthropic -- created --> Ode
+Anthropic -- collaboration partners --> Blackstone
+Anthropic -- collaboration partners --> Hellman & Friedman
+Anthropic -- collaboration partners --> Goldman Sachs
+Anthropic -- donated to --> Public First Action
+Anthropic -- donated $20 million to --> Public First Action
+Anthropic -- partnered with --> Ministry of Education and Children
+
+=== OpenAI ===
+OpenAI -- approached about merger --> Dario Amodei
+OpenAI -- partnered with --> Department of Defense
+OpenAI -- partners with --> Department of Defense
+OpenAI -- rented computing power from --> Google
+OpenAI -- invested in by --> Amazon
+OpenAI -- founded by --> Amazon Web Services
+OpenAI -- offered CEO position to replace --> Sam Altman
+OpenAI -- founded by --> Sam Altman
+OpenAI -- founded by --> Elon Musk
+OpenAI -- founded by --> Greg Brockman
+OpenAI -- developed --> ChatGPT
+OpenAI -- released --> ChatGPT
+OpenAI -- launched --> ChatGPT
+OpenAI -- developed --> OpenAI Codex
+OpenAI -- developed --> GPT Image
+OpenAI -- developed --> Deep Research
+OpenAI -- developed --> ChatGPT agent
+OpenAI -- developed --> ChatGPT Atlas
+OpenAI -- developed --> ChatGPT Health
+OpenAI -- released --> OpenAI Gym
+OpenAI -- released --> Universe
+OpenAI -- has subsidiary --> OpenAI Deployment Company
+OpenAI -- owns --> OpenAI Deployment Company
+OpenAI -- subsidiary --> OpenAI Deployment Company
+OpenAI -- launched --> OpenAI Deployment Company
+OpenAI -- has subsidiary --> OpenAI LP
+OpenAI -- formed subsidiary --> OpenAI LP
+OpenAI -- has subsidiary --> OpenAI GP LLC
+OpenAI -- formed subsidiary --> OpenAI GP LLC
+OpenAI -- has subsidiary --> OpenAI Global, LLC
+OpenAI -- formed subsidiary --> OpenAI Global, LLC
+OpenAI -- has subsidiary --> OpenAI Group PBC
+OpenAI -- shares revenue with --> Microsoft
+OpenAI -- founded by --> Microsoft
+OpenAI -- invested in by --> Nvidia
+OpenAI -- partnered on The Stargate Project with --> SoftBank
+OpenAI -- invested in by --> SoftBank
+OpenAI -- invested in by --> Reid Hoffman
+OpenAI -- invested in by --> Jessica Livingston
+OpenAI -- founded by --> Jessica Livingston
+
+=== Dario Amodei ===
+Dario Amodei -- co-founded --> Anthropic
+Dario Amodei -- is CEO of --> Anthropic
+Dario Amodei -- co-founder of --> Anthropic
+Dario Amodei -- CEO of --> Anthropic
+Dario Amodei -- is founder of --> Anthropic
+Dario Amodei -- is cofounder of --> Anthropic
+Dario Amodei -- is brother of --> Daniela Amodei
+Dario Amodei -- sibling of --> Daniela Amodei
+Dario Amodei -- is sibling of --> Daniela Amodei
+Dario Amodei -- was vice president of research at --> OpenAI
+Dario Amodei -- worked at --> OpenAI
+Dario Amodei -- joined --> OpenAI
+Dario Amodei -- recruited to --> OpenAI
+Dario Amodei -- left --> OpenAI
+Dario Amodei -- was Vice President of Research at --> OpenAI
+Dario Amodei -- worked at --> Google
+Dario Amodei -- is child of --> Riccardo Amodei
+Dario Amodei -- is child of --> Elena Engel
+Dario Amodei -- graduated from --> Lowell High School
+Dario Amodei -- attended --> Caltech
+Dario Amodei -- studied under --> Tom Tombrello
+Dario Amodei -- received bachelor's degree from --> Stanford University
+Dario Amodei -- graduated from --> Stanford University
+Dario Amodei -- transferred to --> Stanford University
+Dario Amodei -- received degree from --> Stanford University
+Dario Amodei -- received fellowship from --> Hertz Foundation
+Dario Amodei -- earned doctorate from --> Princeton University
+Dario Amodei -- received PhD from --> Princeton University
+Dario Amodei -- was postdoctoral scholar at --> Stanford University School of Medicine
+Dario Amodei -- postdoctoral scholar at --> Stanford University School of Medicine
+Dario Amodei -- worked at --> Baidu
+Dario Amodei -- married --> Camilla Clark
+Dario Amodei -- married to --> Camilla Clark
+Dario Amodei -- began dating --> Camilla Clark
+Dario Amodei -- born in --> San Francisco, California
+Dario Amodei -- born in place --> San Francisco, California
+Dario Amodei -- born in --> 1983
+Dario Amodei -- born in year --> 1983
+Dario Amodei -- member of --> USA Physics Olympiad team
+Dario Amodei -- was member of --> USA Physics Olympiad team
+
+=== Sam Altman ===
+Sam Altman -- agreed with --> Dario Amodei
+Sam Altman -- co-founded --> OpenAI
+Sam Altman -- is CEO of --> OpenAI
+Sam Altman -- CEO of --> OpenAI
+Sam Altman -- founder of --> OpenAI
+Sam Altman -- became CEO of --> OpenAI
+Sam Altman -- named by --> Time magazine
+Sam Altman -- was CEO of --> Loopt
+Sam Altman -- left --> Y Combinator
+Sam Altman -- is brother of --> Jack Altman
+Sam Altman -- co-founded --> Hydrazine Capital
+Sam Altman -- invested in --> Humane
+Sam Altman -- invested in --> Retro Biosciences
+Sam Altman -- invested in --> Boom Technology
+Sam Altman -- invested in --> Cruise
+Sam Altman -- is chairman of the board for --> Helion Energy
+Sam Altman -- invested in --> Helion Energy
+Sam Altman -- helped create --> Project Covalence
+Sam Altman -- invested in --> Minicircle
+Sam Altman -- invested in --> Próspera
+Sam Altman -- invested in --> Praxis
+Sam Altman -- was CEO of --> Reddit
+Sam Altman -- co-founded --> Tools For Humanity
+Sam Altman -- invested in --> Exowatt
+Sam Altman -- was CEO of --> AltC Acquisition Corp
+Sam Altman -- co-founded --> AltC Acquisition Corp
+Sam Altman -- was chairman of --> Oklo Inc.
+Sam Altman -- removed as CEO of --> OpenAI in 2023
+Sam Altman -- reinstated as CEO of --> OpenAI in 2023
+Sam Altman -- was fired from --> OpenAI in 2023
+Sam Altman -- expected project duration --> decades-long
+Sam Altman -- confirmed IPO delayed until --> 2027
+Sam Altman -- net worth in March 2024 --> $2 billion
+Sam Altman -- is investment portfolio size as of June 2024 --> 400 companies
+Sam Altman -- is investment portfolio value as of June 2024 --> $2.8 billion
+Sam Altman -- earned from sale of Loopt --> $5 million
+Sam Altman -- invested 75 percent of Hydrazine Capital in --> Y-Combinator
+Sam Altman -- attended Bilderberg Meeting in --> 2016, 2022, 2023
+Sam Altman -- invested in --> Airbnb
+Sam Altman -- invested in --> Stripe
+
+=== Samuel Harris Altman ===
+Samuel Harris Altman -- CEO of --> OpenAI
+Samuel Harris Altman -- co-founded --> OpenAI
+Samuel Harris Altman -- is CEO of --> OpenAI
+Samuel Harris Altman -- attended --> Stanford University
+Samuel Harris Altman -- dropped out of --> Stanford University
+Samuel Harris Altman -- supervised launch of --> ChatGPT
+Samuel Harris Altman -- joined Y Combinator in --> 2011
+Samuel Harris Altman -- co-founded OpenAI in --> 2015
+Samuel Harris Altman -- born in --> Chicago
+Samuel Harris Altman -- born on --> April 22, 1985
+Samuel Harris Altman -- raised venture capital for --> Loopt
+Samuel Harris Altman -- co-founded --> Loopt
+Samuel Harris Altman -- became partner at --> Y Combinator
+Samuel Harris Altman -- joined --> Y Combinator
+Samuel Harris Altman -- president of --> Y Combinator
+Samuel Harris Altman -- attended --> John Burroughs School
+Samuel Harris Altman -- invested in --> Stripe, Inc.
+Samuel Harris Altman -- invested in --> Helion Energy
+Samuel Harris Altman -- CEO of --> Reddit
+Samuel Harris Altman -- invested in --> Reddit
+Samuel Harris Altman -- chairman of --> Oklo Inc.
+Samuel Harris Altman -- member of transition team for --> Daniel Lurie
+Samuel Harris Altman -- president of YC Group in --> September 2016
+Samuel Harris Altman -- CEO of OpenAI since --> 2019
+Samuel Harris Altman -- nationality --> American
+Samuel Harris Altman -- president of Y Combinator from --> 2014 to 2019
+Samuel Harris Altman -- invested in --> Worldcoin
+Samuel Harris Altman -- invested in --> Instacart
+Samuel Harris Altman -- ousted by --> OpenAI board of directors
+Samuel Harris Altman -- ousted in --> 2023
+Samuel Harris Altman -- moved to --> Clayton, Missouri
+Samuel Harris Altman -- moved in --> 1989
+Samuel Harris Altman -- dropped out in --> 2005
+Connie Gibstine -- mother of --> Samuel Harris Altman
+Jerry Altman -- father of --> Samuel Harris Altman
+Max Altman -- sibling of --> Samuel Harris Altman
+Jack Altman -- sibling of --> Samuel Harris Altman
+Ann Altman -- sibling of --> Samuel Harris Altman
+Paul Graham -- mentor to --> Samuel Harris Altman
+Stripe, Inc. -- invested in by --> Samuel Harris Altman
+
+=== Microsoft ===
+Microsoft -- supported --> Anthropic
+Microsoft -- holds an ownership stake in --> OpenAI
+Microsoft -- invested in --> OpenAI
+Microsoft -- provides cloud computing infrastructure to --> OpenAI
+Microsoft -- co-founder of --> OpenAI
+Microsoft -- invested in --> OpenAI LP
+Microsoft -- owned stake in --> OpenAI Global, LLC
+Microsoft -- holds an ownership stake in --> OpenAI Group PBC
+Microsoft -- owns stake in --> OpenAI Group PBC
+Microsoft -- owned stake in --> OpenAI Group PBC
+Microsoft -- integrated models from --> Copilot
+Microsoft -- owns --> 23.3% of OpenAI
+Microsoft -- invested in OpenAI in --> 2019
+Microsoft -- invested amount --> $1 billion
+Microsoft -- investment amount in 2019 --> $1 billion
+Microsoft -- holds stake in OpenAI Group PBC of --> 27%
+Microsoft -- owned stake percentage in --> 27%
+Microsoft -- invested in OpenAI through 2022 --> $2 billion
+Microsoft -- announced investment in OpenAI on --> January 23, 2023
+Microsoft -- investment amount announced in 2023 --> $10 billion
+Anthropic -- expected investment from --> Microsoft
+OpenAI -- shares revenue with --> Microsoft
+OpenAI -- founded by --> Microsoft
+Satya Nadella -- CEO of --> Microsoft
+Satya Nadella -- announced Sam Altman joining --> Microsoft
+Satya Nadella -- is CEO of --> Microsoft
+
+=== Daniela Amodei ===
+Daniela Amodei -- sibling of --> Dario Amodei
+Daniela Amodei -- is sibling of --> Dario Amodei
+Daniela Amodei -- co-founded --> Anthropic
+Daniela Amodei -- is President of --> Anthropic
+Daniela Amodei -- co-founder of --> Anthropic
+Daniela Amodei -- President of --> Anthropic
+Daniela Amodei -- is founder of --> Anthropic
+Daniela Amodei -- is president of --> Anthropic
+Daniela Amodei -- is cofounder of --> Anthropic
+Daniela Amodei -- was formerly employed by --> OpenAI
+Daniela Amodei -- left --> OpenAI
+Daniela Amodei -- born --> 1987
+Daniela Amodei -- born in year --> 1987
+Daniela Amodei -- named Time 100 most influential people in year --> 2026
+Daniela Amodei -- influential list year --> 2026
+Daniela Amodei -- is --> co-founder of Anthropic
+Daniela Amodei -- is --> president of Anthropic
+Daniela Amodei -- co-founded --> Anthropic in 2021
+Daniela Amodei -- is listed in --> TIME100 AI 2023
+Daniela Amodei -- is listed in --> TIME 100 Most Influential People of 2026
+Dario Amodei -- is brother of --> Daniela Amodei
+Dario Amodei -- sibling of --> Daniela Amodei
+Dario Amodei -- is sibling of --> Daniela Amodei
+Riccardo Amodei -- father of --> Daniela Amodei
+Elena Engel -- mother of --> Daniela Amodei
+
+=== Elon Musk ===
+Elon Musk -- co-founded --> OpenAI
+Elon Musk -- sued --> OpenAI
+Elon Musk -- co-founder of --> OpenAI
+Elon Musk -- founder of --> OpenAI
+Elon Musk -- revised lawsuit against --> OpenAI
+Elon Musk -- led consortium bid for --> OpenAI
+Elon Musk -- resigned from Board of Directors of --> OpenAI
+Elon Musk -- is co-founder of --> OpenAI
+Elon Musk -- filed lawsuit against --> OpenAI
+Elon Musk -- sued --> Sam Altman
+Elon Musk -- revised lawsuit against --> Sam Altman
+Elon Musk -- filed lawsuit against --> Sam Altman
+Elon Musk -- lost lawsuit against OpenAI in --> May 2026
+Elon Musk -- resigned from --> OpenAI in 2018
+Elon Musk -- submitted bid on --> February 10, 2025
+Elon Musk -- bid amount --> $97.4 billion
+Elon Musk -- resigned from OpenAI in --> 2018
+Elon Musk -- sued in --> February 2024
+Elon Musk -- lost lawsuit against --> Sam Altman and OpenAI
+OpenAI -- founded by --> Elon Musk
+
+=== OpenAI Deployment Company ===
+OpenAI Deployment Company -- acquired --> Tomoro
+OpenAI Deployment Company -- agreed to acquire --> Northslope
+OpenAI Deployment Company -- acquired --> Northslope
+OpenAI Deployment Company -- launched in --> May 2026
+OpenAI Deployment Company -- pre-financing valuation --> $10 billion
+OpenAI Deployment Company -- received initial investment of --> $4 billion
+OpenAI Deployment Company -- post-financing valuation --> $14 billion
+OpenAI -- owns --> OpenAI Deployment Company
+OpenAI -- has subsidiary --> OpenAI Deployment Company
+OpenAI -- subsidiary --> OpenAI Deployment Company
+OpenAI -- launched --> OpenAI Deployment Company
+TPG -- invested in --> OpenAI Deployment Company
+TPG -- led investment in --> OpenAI Deployment Company
+Advent International -- invested in --> OpenAI Deployment Company
+Advent International -- co-lead founding partner of --> OpenAI Deployment Company
+Bain Capital -- invested in --> OpenAI Deployment Company
+Bain Capital -- co-lead founding partner of --> OpenAI Deployment Company
+Brookfield -- invested in --> OpenAI Deployment Company
+Brookfield -- co-lead founding partner of --> OpenAI Deployment Company
+
+=== Google ===
+Google -- invested in --> Anthropic
+Google -- supported --> Anthropic
+Google -- committed --> $1.5 billion
+Google -- agreed to invest --> $1 billion
+Google -- invested --> $500 million
+Google -- invested date --> October 2023
+Google -- agreed to invest date --> March 2025
+Dario Amodei -- worked at --> Google
+Anthropic -- partnered with --> Google
+Anthropic -- announced partnership with --> Google
+OpenAI -- rented computing power from --> Google
+Department of Defense -- awarded contract to --> Google
+United States Department of Defense -- awarded contract to --> Google
+
+=== Amazon ===
+Amazon -- partnered with --> Anthropic
+Amazon -- invested in --> Anthropic
+Amazon -- supported --> Anthropic
+Amazon -- invested in --> OpenAI
+Amazon -- invested in OpenAI --> $50 billion
+Amazon -- invested --> $4 billion
+Amazon -- invested date --> March 2024
+Amazon -- partnership date --> September 2023
+Amazon -- became --> minority stakeholder in Anthropic
+Amazon -- invested --> $1.25 billion
+Amazon -- invested --> $2.75 billion
+Amazon -- invested date --> November 2024
+OpenAI -- invested in by --> Amazon
+
+=== Claude ===
+Claude -- released in --> March 2023
+Claude -- release date --> March 2023
+Claude -- is used in --> classified missions
+Claude -- enabled to access --> real-time information
+Claude -- used in --> 2026 United States intervention in Venezuela
+Anthropic -- develops --> Claude
+Anthropic -- developed --> Claude
+Anthropic -- produces --> Claude
+Anthropic -- flagship product --> Claude
+United States military -- used --> Claude
+Pentagon -- is investigating --> Claude
+Trump administration -- ordered US agencies to stop using --> Claude
+Chinese government sponsored hackers -- used --> Claude

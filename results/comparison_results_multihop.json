@@ -1,0 +1,171 @@
+{
+  "1": {
+    "question": "Which university awarded the CEO of Anthropic his PhD?",
+    "answer_key": "Princeton University",
+    "graph": {
+      "entities": [
+        "Anthropic",
+        "CEO of Anthropic",
+        "Dario Amodei",
+        "Stanford University"
+      ],
+      "facts": 661,
+      "answer": "The CEO of Anthropic, Dario Amodei, earned his PhD from Princeton University."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "The provided text passages do not state which university awarded Dario Amodei his PhD. They mention his 2011 thesis, \"Network-Scale Electrophysiology: Measuring and Understanding the Collective Behavior of Neural Circuits,\" and cite \"Princeton University\" at the beginning of the first passage, but the text does not explicitly connect that university to the awarding of his degree."
+    }
+  },
+  "2": {
+    "question": "In what year was Daniela Amodei's brother born?",
+    "answer_key": "1983",
+    "graph": {
+      "entities": [
+        "Daniela Amodei",
+        "Ode",
+        "Dario Amodei"
+      ],
+      "facts": 547,
+      "answer": "Daniela Amodei's brother, Dario Amodei, was born in 1983."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt"
+      ],
+      "answer": "Dario Amodei, the brother of Daniela Amodei, was born in 1983."
+    }
+  },
+  "3": {
+    "question": "Which company that Dario Amodei once worked at is also a cloud partner of Anthropic?",
+    "answer_key": "Google",
+    "graph": {
+      "entities": [
+        "Dario Amodei",
+        "Anthropic",
+        "Ode",
+        "Google",
+        "Amazon"
+      ],
+      "facts": 625,
+      "answer": "Based on the facts provided, the company that Dario Amodei once worked at and is also a cloud partner of Anthropic is **Google**.\n\nThe facts state that Dario Amodei \"worked at --> Google\" and that Anthropic \"partnered with --> Google\" and \"announced partnership with --> Google.\""
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Based on the provided passages, Google is a company that Dario Amodei once worked at and is also a cloud partner of Anthropic. The text notes that Amodei worked at Google, and later mentions that Anthropic uses Amazon Web Services (AWS) as its primary cloud provider, but the passages do not explicitly describe Google as a cloud partner. However, regarding Amazon, the text does not state that Dario Amodei ever worked there.\n\nTherefore, the provided text does not contain enough information to confirm a company that meets both criteria (having employed Amodei and serving as a cloud partner)."
+    }
+  },
+  "4": {
+    "question": "Which US government department has partnered with both Anthropic and OpenAI?",
+    "answer_key": "Department of Defense",
+    "graph": {
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "US government",
+        "Department of Defense",
+        "United States Department of Defense"
+      ],
+      "facts": 746,
+      "answer": "Based on the provided facts, the United States Department of Defense has partnered with (or awarded contracts to) both Anthropic and OpenAI."
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Based on the provided passages, the United States Department of Defense (DoD) is the government department that has partnered with both Anthropic and OpenAI.\n\nPassage [115] states: \"In July 2025, the United States Department of Defense (DoD) announced that Anthropic had received a $200 million contract for AI in the military, along with Google, OpenAI, and xAI.\""
+    }
+  },
+  "5": {
+    "question": "Which company expected to invest in Anthropic alongside Nvidia in November 2025 has also invested over $13 billion in OpenAI?",
+    "answer_key": "Microsoft",
+    "graph": {
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Nvidia",
+        "2025",
+        "$13 billion",
+        "Microsoft"
+      ],
+      "facts": 743,
+      "answer": "Based on the provided facts, the company is Microsoft.\n\nThe facts state that Anthropic expected investment from Microsoft and Nvidia, and that Microsoft has invested over $13 billion in OpenAI (specifically $1 billion in 2019, $2 billion through 2022, and $10 billion in 2023)."
+    },
+    "vector": {
+      "sources": [
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "openai_wikipedia.txt"
+      ],
+      "answer": "The provided passages do not contain information about an investment in Anthropic in November 2025, nor do they mention any company investing alongside Nvidia in Anthropic at that time. Therefore, there is not enough information to answer your question."
+    }
+  },
+  "6": {
+    "question": "Who is the spouse of Anthropic's CEO?",
+    "answer_key": "Camilla Clark",
+    "graph": {
+      "entities": [
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "facts": 611,
+      "answer": "The spouse of Anthropic's CEO, Dario Amodei, is Camilla Clark."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "The spouse of Anthropic's CEO, Dario Amodei, is Camilla Clark. They began dating in 2014 and married in 2022."
+    }
+  },
+  "7": {
+    "question": "What position did Anthropic's CEO hold at OpenAI before he left?",
+    "answer_key": "Vice President of Research",
+    "graph": {
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Dario Amodei",
+        "OpenAI Vice President of Research"
+      ],
+      "facts": 750,
+      "answer": "Before joining Anthropic, Dario Amodei held the position of Vice President of Research at OpenAI."
+    },
+    "vector": {
+      "sources": [
+        "dario_amodei_wikipedia.txt",
+        "dario_amodei_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt",
+        "anthropic_wikipedia.txt"
+      ],
+      "answer": "Before leaving OpenAI, Dario Amodei held the position of vice president of research."
+    }
+  }
+}
